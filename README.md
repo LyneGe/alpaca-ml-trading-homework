@@ -79,7 +79,7 @@ python paper_trade.py
 
 Paste your video link here:
 
-[Video Link](YOUR_VIDEO_LINK_HERE)
+[Video Link](https://drive.google.com/file/d/1fdlm4GnzhLjYq8kj7EosBHCq2MeW8Rva/view?usp=sharing)
 
 ## Required Video Statement
 
